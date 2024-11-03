@@ -1,5 +1,5 @@
 export default function Friend({user}) {
-    console.log(user);
+    // console.log(user);
     return (
         <>
         <h3>
